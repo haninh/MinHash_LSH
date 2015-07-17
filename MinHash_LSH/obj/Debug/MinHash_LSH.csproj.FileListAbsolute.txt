@@ -1,0 +1,6 @@
+G:\Project\Test\MinHash_LSH\MinHash_LSH\bin\Debug\MinHash_LSH.exe.config
+G:\Project\Test\MinHash_LSH\MinHash_LSH\bin\Debug\MinHash_LSH.exe
+G:\Project\Test\MinHash_LSH\MinHash_LSH\bin\Debug\MinHash_LSH.pdb
+G:\Project\Test\MinHash_LSH\MinHash_LSH\obj\Debug\MinHash_LSH.exe
+G:\Project\Test\MinHash_LSH\MinHash_LSH\obj\Debug\MinHash_LSH.pdb
+G:\Project\Test\MinHash_LSH\MinHash_LSH\obj\Debug\MinHash_LSH.csprojResolveAssemblyReference.cache
